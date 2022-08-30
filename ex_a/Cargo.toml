@@ -1,5 +1,5 @@
 [package]
-name = "ex-a"
+name = "ex_a"
 version = "2.3.4"
 edition = "2021"
 
