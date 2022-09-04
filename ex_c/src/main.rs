@@ -1,11 +1,7 @@
 // Silence some warnings so they don't distract from the exercise.
 #![allow(dead_code, unused_variables)]
 
-use ex_c::ding;
-use ex_c::on_off;
-use ex_c::print_array;
-use ex_c::print_difference;
-use ex_c::print_distance;
+use ex_c::{ding, on_off, print_array, print_difference, print_distance};
 
 fn main() {
     let coords: (f32, f32) = (6.3, 15.0);
